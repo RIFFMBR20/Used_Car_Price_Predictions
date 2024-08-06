@@ -1,0 +1,509 @@
+Name,Price,Year,Kilometer,Fuel,Transmission,Engine,Location
+Suzuki Ertiga,102000000,2014,60.000,Bensin,MT,1.4,Pasar
+Toyota Avanza,150000000,2018,60.000,Bensin,MT,1.3,CilangkapHari
+Honda Mobilio,153000000,2018,90.000,Bensin,MT,1.5,PademanganHari
+Wuling Confero,140000000,2023,15.000,Bensin,MT,1.5,Duren
+Mercedes-Benz GLC200,579000000,2018,25.000,No fuel,No transmission,200,Kebayoran
+Toyota Vellfire,685000000,2017,70.000,No fuel,No transmission,2017,Jakarta
+Porsche Cayenne,428000000,2004,45.000,No fuel,No transmission,1,Grogol
+BMW X1,339000000,2017,35.000,No fuel,No transmission,1,Kebayoran
+Suzuki SX4,115000000,2012,75.000,No fuel,AT,4,CilandakHari
+Toyota Avanza,239000000,2022,45.000,No fuel,AT,2022,Kramat
+Toyota Fortuner,435000000,2019,75.000,No fuel,AT,2.4,CakungHari
+Kia Carens,24000000,2001,15.000,No fuel,No transmission,No engine size,GambirHari
+Toyota Vellfire,615000000,2015,70.000,No fuel,AT,70,KembanganHari
+Mitsubishi Strada,130000000,2008,170.000,No fuel,No transmission,2.5,Kebayoran
+Mitsubishi Pajero Sport,247000000,2012,90.000,No fuel,AT,4,MakasarHari
+BMW 528i,388000000,2015,35.000,No fuel,No transmission,2015,Tanjung
+BMW X1,375000000,2016,20.000,No fuel,No transmission,2016,Tanjung
+Subaru BRZ,749000000,2023,5.000,No fuel,No transmission,No engine size,Tanjung
+Porsche Boxster,2500000000,2022,5.000,No fuel,No transmission,2021,KemayoranHari
+Chevrolet Trax,138000000,2016,75.000,Bensin,AT,1.4,Pasar
+Chevrolet Trax,164000000,2017,115.000,Bensin,AT,1.4,TebetHari
+Honda Brio Satya,118000000,2017,70.000,Bensin,MT,1.2,Pasar
+Nissan March,95000000,2015,40.000,Bensin,MT,1.2,Kelapa
+Toyota Fortuner,490000000,2021,30.000,No fuel,AT,2.4,PenjaringanHari
+Honda HR-V,218000000,2019,75.000,No fuel,No transmission,2019,Pademangan6
+Hyundai H-1,399000000,2018,50.000,Diesel,No transmission,1,Kelapa
+Wuling Air EV,157000000,2023,15.000,No fuel,No transmission,2023,Kelapa
+Mercedes-Benz E200,820000000,2022,15.000,No fuel,No transmission,200,Cilandak26
+Mercedes-Benz G-Class,4300000000,2022,5.000,No fuel,No transmission,400,Tanjung
+BMW 523i,160000000,2008,120.000,No fuel,No transmission,523,Pulo
+Ferrari California,4500000000,2015,15.000,No fuel,No transmission,No engine size,Pantai
+Mercedes-Benz E250,625000000,2011,95.000,Bensin,No transmission,250,Pasar
+Volkswagen Tiguan Allspace,450000000,2021,20.000,No fuel,No transmission,2021,Pantai
+Mercedes-Benz Tiger,130000000,1986,220.000,No fuel,No transmission,280,CilandakHari
+BMW X7,1900000000,2022,5.000,Bensin,No transmission,7,PenjaringanHari
+Toyota Fortuner,268000000,2013,80.000,No fuel,No transmission,4,CibuburHari
+Mercedes-Benz C200,870000000,2023,10.000,No fuel,No transmission,200,Jakarta
+Mercedes-Benz C200,870000000,2023,10.000,No fuel,No transmission,200,Kebayoran
+Isuzu Panther,98700000,2013,105.000,No fuel,No transmission,No engine size,Kebayoran
+Toyota Agya,140000000,2021,5.000,Bensin,AT,1.2,CibuburHari
+Honda BR-V,163000000,2017,75.000,Bensin,AT,1.5,CilangkapHari
+Toyota Kijang Innova,179000000,2014,135.000,Bensin,AT,2.0,CilangkapHari
+Nissan Serena,220000000,2016,95.000,Bensin,AT,2.0,PademanganHari
+Mitsubishi Xpander,199000000,2018,135.000,Bensin,AT,1.5,MatramanHari
+Toyota Yaris,168000000,2017,80.000,No fuel,No transmission,1.5,Pademangan6
+Mercedes-Benz Lain-lain,1600000000,2023,5.000,No fuel,No transmission,350,Kelapa
+Toyota Harrier,335000000,2014,105.000,No fuel,No transmission,2.0,Kemayoran23
+Chery Tiggo 7 Pro,303000000,2022,15.000,No fuel,AT,0,Menteng5
+BMW 730Li,150000000,2004,65.000,No fuel,No transmission,730,Kebayoran
+Mercedes-Benz B200,215000000,2014,80.000,No fuel,No transmission,200,KembanganHari
+Mini Cooper Lain-lain,610000000,2018,35.000,No fuel,No transmission,20,KembanganHari
+Mercedes-Benz GLE450,1295000000,2021,40.000,No fuel,No transmission,450,KemayoranHari
+Honda HR-V,265000000,2021,25.000,No fuel,No transmission,1.5,Kebayoran
+Volkswagen Touran,119000000,2009,10.000,No fuel,No transmission,2009,PademanganHari
+Toyota Calya,135000000,2022,35.000,No fuel,Manual,2022,Jakarta
+Mercedes-Benz B200,215000000,2014,80.000,No fuel,No transmission,200,MentengHari
+Toyota Vellfire,389000000,2015,60.000,No fuel,No transmission,2015,PademanganHari
+Toyota Camry,190000000,2014,90.000,Bensin,No transmission,2014,Setia
+Ford Fiesta,65000000,2012,135.000,No fuel,No transmission,2012,PancoranHari
+Honda CR-V,337000000,2017,100.000,Bensin,AT,1.5,Kebayoran
+Honda City,167000000,2015,90.000,Bensin,AT,1.5,PademanganHari
+Daihatsu Ayla,119000000,2017,70.000,Bensin,AT,1.2,CakungHari
+Toyota Yaris,298000000,2023,25.000,Bensin,AT,1.5,PademanganHari
+Honda Jazz,219000000,2019,60.000,Bensin,AT,1.5,CibuburHari
+Suzuki Baleno next-G,210900000,2023,5.000,No fuel,No transmission,2024,Gambir07
+Lexus LS460,600000000,2014,65.000,No fuel,No transmission,460,Pademangan08
+Honda WR-V,272100000,2024,5.000,No fuel,No transmission,2024,Tanjung
+Wuling Air EV,200000000,2022,15.000,No fuel,No transmission,2022,Tanjung
+Mercedes-Benz B200,215000000,2014,80.000,No fuel,No transmission,200,KemangHari
+Mini Cooper Countryman,388000000,2012,60.000,No fuel,No transmission,2012,PademanganHari
+Toyota Alphard,795000000,2018,85.000,No fuel,No transmission,2018,CilandakHari
+Mercedes-Benz B200,215000000,2014,80.000,No fuel,No transmission,200,Cempaka
+Daihatsu Ayla,115000000,2021,15.000,No fuel,Manual,1.2,Kebayoran
+Chevrolet Trax,139000000,2017,105.000,No fuel,No transmission,2017,Kebayoran
+Mercedes-Benz B200,215000000,2014,80.000,No fuel,No transmission,200,Mampang
+Mitsubishi Pajero Sport,365000000,2016,80.000,No fuel,No transmission,2016,PademanganHari
+Mini Cooper Mini Cooper,620000000,2018,20.000,No fuel,No transmission,2018,Kebayoran
+Honda CR-V,155000000,2013,120.000,No fuel,No transmission,2.4,Duren
+Daihatsu Xenia,160000000,2019,90.000,Bensin,No transmission,5,CilandakHari
+Honda CR-V,337000000,2017,100.000,Bensin,AT,1.5,Grogol
+Suzuki Ertiga,133000000,2017,110.000,Bensin,MT,1.4,CilangkapHari
+Toyota Yaris,225000000,2020,45.000,Bensin,AT,1.5,CilangkapHari
+Mitsubishi Xpander,193000000,2018,120.000,Bensin,AT,1.5,PademanganHari
+Daihatsu Sigra,104000000,2019,60.000,Bensin,MT,1.2,CibuburHari
+Volkswagen Tiguan,158000000,2014,95.000,No fuel,No transmission,1.4,Kemayoran25
+Toyota Alphard,945000000,2017,30.000,No fuel,No transmission,350,Menteng15
+Honda BR-V,257000000,2023,15.000,No fuel,AT,2023,Daan
+BMW X1,345000000,2016,70.000,No fuel,No transmission,25,Cipayung22
+Toyota Kijang Super G,60000000,1996,100.000,No fuel,No transmission,No engine size,CilandakHari
+Suzuki XL7,215000000,2022,25.000,No fuel,AT,7,Pasar
+Daihatsu Sigra,110000000,2019,70.000,No fuel,No transmission,2019,Grogol
+Daihatsu Terios,184000000,2019,15.000,No fuel,MT,2019,CakungHari
+Mazda 3,318000000,2019,55.000,No fuel,No transmission,3,PademanganHari
+Hyundai Creta,290000000,2022,25.000,No fuel,No transmission,1.5,PademanganHari
+Lexus GS300,185000000,2007,30.000,No fuel,AT,300,MentengHari
+Toyota Avanza,239000000,2023,30.000,No fuel,No transmission,2023,PademanganHari
+Mitsubishi Xpander,191000000,2018,50.000,No fuel,AT,1.5,PademanganHari
+BMW 520d,550000000,2017,50.000,No fuel,No transmission,2017,PenjaringanHari
+Wuling Confero S,96000000,2018,140.000,Bensin,No transmission,2018,CengkarengHari
+Mazda CX-3,271000000,2021,25.000,Bensin,AT,3,PesanggrahanHari
+Toyota Voxy,329000000,2019,110.000,Bensin,AT,2.0,PademanganHari
+Toyota Kijang Innova,216000000,2017,95.000,Bensin,MT,2.0,PademanganHari
+Daihatsu Sigra,102000000,2023,15.000,Bensin,MT,1.0,Kelapa
+Toyota Rush,212000000,2020,55.000,Bensin,AT,1.5,Tanjung
+Toyota Camry,230000000,2017,75.000,No fuel,AT,2.5,Grogol
+Porsche Macan,715000000,2015,30.000,No fuel,No transmission,10,Jakarta
+Mazda CX-8,520000000,2021,40.000,No fuel,AT,35,Cipayung15
+Daihatsu Gran max,150900000,2024,5.000,No fuel,No transmission,No engine size,Menteng30
+Hyundai Palisade,845000000,2023,15.000,Diesel,No transmission,2.2,PademanganHari
+Ford Ecosport,115000000,2015,125.000,No fuel,No transmission,1.5,SenenHari
+Nissan March,98000000,2018,30.000,No fuel,Manual,1.2,CilandakHari
+BMW 530i,575000000,2017,15.000,No fuel,No transmission,530,Duren
+Mercedes-Benz Viano,750000000,2019,30.000,No fuel,No transmission,260,MentengHari
+BMW X6,438000000,2012,35.000,No fuel,No transmission,6,Pantai
+Toyota Kijang Innova,245000000,2018,85.000,Bensin,AT,2018,CilandakHari
+Nissan Juke,112000000,2012,80.000,No fuel,No transmission,5,CilandakHari
+Nissan X-Trail,150000000,2015,160.000,Bensin,No transmission,2015,Duren
+BMW X5,475000000,2015,40.000,No fuel,No transmission,5,KembanganHari
+Toyota Alphard,868000000,2020,25.000,No fuel,No transmission,2021,Kelapa
+Daihatsu Ayla,81000000,2017,115.000,Bensin,MT,1.0,TebetHari
+Wuling Almaz,187000000,2019,50.000,Bensin,AT,1.5,PademanganHari
+Daihatsu Xenia,108000000,2014,50.000,Bensin,MT,1.3,CibuburHari
+Daihatsu Terios,192000000,2021,20.000,Bensin,MT,1.5,CibuburHari
+Toyota Sienta,188000000,2020,45.000,Bensin,AT,1.5,Kebayoran
+Hyundai H-1,278000000,2018,110.000,Bensin,No transmission,1,Kebayoran
+Mitsubishi Xpander,190000000,2018,70.000,No fuel,AT,1.5,Pulo
+Honda HR-V,363900000,2024,5.000,No fuel,No transmission,No engine size,Cilandak5
+Toyota Kijang Innova,243000000,2018,65.000,Bensin,AT,11,Duren
+Toyota Alphard,868000000,2021,25.000,No fuel,No transmission,2021,Kebayoran
+Nissan X-Trail,150000000,2015,160.000,Bensin,No transmission,2015,Duren
+Hyundai Palisade,720000000,2021,25.000,Diesel,AT,21.000,CilandakHari
+Hyundai Palisade,720000000,2021,25.000,Diesel,AT,21.000,SenenHari
+BMW 116i,139000000,2006,95.000,No fuel,Automatic,116,Setia
+Honda Civic,65000000,1994,100.000,Bensin,No transmission,1994,TamboraHari
+Nissan X-Trail,138000000,2013,150.000,No fuel,No transmission,2.5,PademanganHari
+Nissan Terra,350000000,2019,90.000,No fuel,AT,4,Kebon
+Toyota Vellfire,199000000,2008,115.000,No fuel,No transmission,2008,CibuburHari
+Toyota Kijang Innova,235000000,2017,110.000,No fuel,No transmission,2017,Kelapa
+Suzuki Jimny,485000000,2024,5.000,No fuel,Manual,5,MentengHari
+Daihatsu Sigra,80000000,2017,100.000,Bensin,MT,1.2,Pulo
+Toyota Agya,140000000,2021,10.000,Bensin,AT,1.2,PalmerahHari
+Chevrolet Spark,116000000,2017,85.000,Bensin,AT,1.4,PademanganHari
+Suzuki Baleno,162000000,2018,60.000,Bensin,AT,1.4,Kelapa
+Suzuki S-Presso,147000000,2023,5.000,Bensin,AT,1.0,Pantai
+BMW X5,425000000,2014,50.000,No fuel,No transmission,5,Setia
+Hyundai H-1,278000000,2018,115.000,Bensin,No transmission,1,Cilandak18
+Isuzu Lain-lain,340000000,2021,50.000,No fuel,No transmission,2021,Jagakarsa11
+BMW 520i,495000000,2018,30.000,Bensin,No transmission,520,Cilandak5
+Lexus RX200t,725000000,2017,55.000,No fuel,No transmission,200,Kebayoran
+Hyundai Tucson,115000000,2012,100.000,Bensin,No transmission,2012,Kebon
+Toyota Alphard,295000000,2012,105.000,No fuel,No transmission,2012,PademanganHari
+Mercedes-Benz EQE 350+,1330000000,2022,5.000,No fuel,No transmission,350,PademanganHari
+Mercedes-Benz GLE450,1295000000,2021,40.000,No fuel,No transmission,450,TamboraHari
+Toyota Vellfire,320000000,2014,70.000,No fuel,No transmission,2014,Cempaka
+Hyundai Palisade,720000000,2021,25.000,Diesel,AT,21.000,Tanjung
+Mercedes-Benz GLA200,349000000,2014,80.000,No fuel,Automatic,200,Kelapa
+Land Rover Range Rover Sport,1150000000,2014,35.000,No fuel,No transmission,3.0,Kebayoran
+Suzuki Baleno,32500000,1997,185.000,No fuel,No transmission,97,CiracasHari
+Toyota Fortuner,482500000,2021,40.000,Diesel,No transmission,2.4,Kebon
+Daihatsu Sigra,80000000,2017,100.000,Bensin,MT,1.2,Pasar
+Toyota Avanza,196000000,2021,40.000,Bensin,AT,1.5,PademanganHari
+Toyota Rush,193000000,2018,95.000,Bensin,MT,1.5,Kramat
+Toyota Rush,193000000,2018,95.000,Bensin,MT,1.5,Pasar
+Honda Mobilio,123000000,2015,100.000,Bensin,AT,1.5,Grogol
+Toyota Alphard,260007000,2012,85.000,No fuel,No transmission,2012,Duren
+Lexus RX 270,289000000,2012,75.000,No fuel,Automatic,270,SenenKemarin
+Toyota Fortuner,435000000,2021,60.000,No fuel,No transmission,30,Pademangan16
+Daihatsu Xenia,202000000,2022,30.000,No fuel,No transmission,1.3,Tanjung
+BMW 320i,198000000,2011,70.000,No fuel,AT,320,KemayoranHari
+Hyundai Palisade,720000000,2021,25.000,Diesel,AT,21.000,Kebayoran
+Mazda 6,475000000,2022,15.000,No fuel,No transmission,6,PademanganHari
+Honda CR-V,245000000,2017,95.000,No fuel,No transmission,2.4,Duren
+Mazda 2,179000000,2016,95.000,No fuel,No transmission,2,Tanjung
+Daihatsu Xenia,162000000,2021,50.000,Bensin,No transmission,2021,MatramanHari
+Mazda CX-7,129000000,2010,100.000,No fuel,Automatic,7,MentengHari
+Toyota Avanza,145000000,2018,65.000,No fuel,No transmission,1.3,KemayoranHari
+Mercedes-Benz GLC250,430000000,2016,45.000,No fuel,No transmission,250,Kebayoran
+Toyota Kijang Innova,232000000,2018,85.000,No fuel,AT,2017,JatinegaraHari
+Suzuki Carry Pick-up,145000000,2023,10.000,No fuel,No transmission,2023,Pulo
+Daihatsu Sigra,80000000,2017,100.000,Bensin,MT,1.2,Bekasi
+Daihatsu Rocky,209000000,2022,45.000,Bensin,AT,1.0,CibuburHari
+Hyundai Grand i10,85000000,2014,100.000,Bensin,MT,10,MatramanHari
+Mazda CX-30,383000000,2020,45.000,Bensin,AT,30,PademanganHari
+Toyota Raize,235000000,2022,25.000,Bensin,AT,1.0,Pasar
+Mazda 6,370000000,2019,45.000,No fuel,AT,6,Kelapa
+Mercedes-Benz Viano,1325000000,2022,5.000,No fuel,No transmission,250,Menteng27
+Mitsubishi Pajero Sport,499000000,2022,35.000,No fuel,AT,4,Kelapa
+Toyota Celica,350000000,2004,65.000,No fuel,Automatic,2004,Tomang3
+Honda Mobilio,135000000,2015,70.000,No fuel,No transmission,2015,Kelapa
+Honda HR-V,235000000,2020,15.000,No fuel,No transmission,2019,CilandakHari
+BMW M3,2300000000,2023,5.000,No fuel,No transmission,3,MentengHari
+Honda CR-V,468000000,2021,70.000,No fuel,No transmission,1.5,Kelapa
+Mercedes-Benz S320L,185000000,1998,140.000,No fuel,No transmission,320,CilandakHari
+Isuzu Traga,231000000,2023,5.000,No fuel,No transmission,No engine size,CengkarengHari
+Toyota Sienta,175000000,2018,45.000,No fuel,No transmission,48,KemayoranHari
+BMW 320i,342000000,2017,45.000,No fuel,No transmission,30,Johar
+Toyota Rush,184000000,2018,30.000,No fuel,No transmission,30,KemayoranHari
+Honda HR-V,270000000,2018,55.000,No fuel,No transmission,2018,Jakarta
+Toyota Fortuner,460000000,2021,40.000,No fuel,No transmission,2021,KemayoranHari
+Daihatsu Sigra,80000000,2017,100.000,Bensin,MT,1.2,Mampang
+Daihatsu Sigra,117000000,2020,55.000,Bensin,MT,1.2,TamboraHari
+Toyota Avanza,196000000,2021,40.000,Bensin,AT,1.5,KalideresHari
+Toyota Calya,108000000,2017,85.000,Bensin,AT,1.2,CibuburHari
+Honda Freed,126000000,2012,115.000,Bensin,AT,1.5,PademanganHari
+Suzuki Jimny,468000000,2024,5.000,No fuel,No transmission,2024,Cilandak25
+Mazda 2,108000000,2014,80.000,No fuel,AT,2,Cilandak4
+Land Rover Range Rover Velar,1275000000,2018,25.000,No fuel,No transmission,250,Kebayoran
+Honda Brio Satya,130000000,2018,50.000,Bensin,No transmission,2018,Pademangan27
+BMW 520i,450000000,2019,55.000,No fuel,No transmission,520,KemayoranHari
+BMW 320i,540000000,2020,35.000,No fuel,No transmission,320,KemayoranHari
+Mercedes-Benz GLE450,1295000000,2021,40.000,No fuel,No transmission,450,Pulo
+Mercedes-Benz GLC250,495000000,2017,35.000,No fuel,No transmission,250,Kebayoran
+BMW X3,588000000,2018,30.000,No fuel,No transmission,3,Kebayoran
+Wuling Almaz RS,259000000,2022,10.000,No fuel,No transmission,5,Kelapa
+Toyota Yaris,89000000,2011,105.000,No fuel,AT,2011,TebetHari
+Mobil CBU Lain-lain,2375000000,2023,5.000,No fuel,AT,1,KembanganHari
+Mazda Biante,169000000,2016,100.000,No fuel,No transmission,2016,PademanganHari
+Lexus LX600,3895000000,2023,5.000,No fuel,No transmission,600,Tanjung
+Mercedes-Benz GLA200,370000000,2016,55.000,No fuel,No transmission,200,KemangHari
+Daihatsu Sigra,80000000,2017,100.000,Bensin,MT,1.2,Kelapa
+Toyota Kijang Innova,179000000,2014,135.000,Bensin,AT,2.0,CibuburHari
+Daihatsu Ayla,100000000,2022,70.000,Bensin,MT,1.0,PalmerahHari
+Nissan Serena,295000000,2019,55.000,Bensin,AT,2.0,PenjaringanHari
+Toyota Avanza,93000000,2013,180.000,Bensin,AT,1.3,PenjaringanHari
+BMW 520i,250000000,2013,65.000,No fuel,No transmission,520,Kembangan3
+Land Rover Defender 110,3850000000,2023,5.000,No fuel,No transmission,2023,Kelapa
+Nissan Grand livina,80650000,2011,130.000,No fuel,No transmission,No engine size,Ciracas07
+Honda CR-V,295000000,2018,50.000,No fuel,No transmission,1.5,Pademangan6
+Toyota mobil-bekas-toyota-innova,140000000,2010,105.000,No fuel,No transmission,2010,KojaHari
+Toyota Camry,245000000,2018,90.000,No fuel,AT,30,KembanganHari
+Hyundai Palisade,720000000,2021,25.000,Diesel,AT,21.000,PesanggrahanHari
+Toyota Rush,235000000,2023,15.000,No fuel,AT,2023,PesanggrahanHari
+BMW X3,418000000,2017,40.000,No fuel,No transmission,1,Kebayoran
+Suzuki Baleno,228000000,2023,10.000,No fuel,No transmission,2023,Kebayoran
+Toyota Avanza,225000000,2021,40.000,No fuel,AT,1.5,Jakarta
+Mini 3 Door,610000000,2018,35.000,No fuel,No transmission,2.0,Kebayoran
+Lexus LX570,625000000,2008,100.000,No fuel,No transmission,570,MentengHari
+Mercedes-Benz C200,455000000,2018,40.000,No fuel,No transmission,200,PenjaringanHari
+Toyota Kijang Innova,325000000,2019,100.000,No fuel,AT,2019,Taman
+Daihatsu Xenia,106000000,2018,55.000,Bensin,MT,1.3,MentengHari
+Mazda CX-30,383000000,2020,45.000,Bensin,AT,30,PademanganHari
+Mitsubishi Outlander Sport,210000000,2018,105.000,Bensin,AT,2.0,MatramanHari
+Mitsubishi Xpander,310000000,2023,10.000,Bensin,AT,1.5,CibuburHari
+Suzuki SX4,150000000,2016,105.000,Bensin,AT,4,PancoranHari
+Toyota Vellfire,258000000,2010,50.000,No fuel,No transmission,50,Kebon
+Suzuki XL7,225000000,2024,5.000,No fuel,No transmission,7,Kelapa
+Mazda 3,349000000,2019,40.000,No fuel,No transmission,3,Mampang
+Mercedes-Benz GLA200,340000000,2015,85.000,No fuel,AT,200,Setia
+Porsche Lain-lain,4750000000,2023,5.000,No fuel,No transmission,911,Kebayoran
+BMW X3,418000000,2017,40.000,No fuel,No transmission,3,SenenHari
+Nissan X-Trail,99900000,2009,165.000,No fuel,No transmission,31,CilandakHari
+Toyota Fortuner,425000000,2020,70.000,No fuel,No transmission,2021,CengkarengHari
+Ford Ecosport,105000000,2014,115.000,No fuel,No transmission,2014,Jakarta
+Lexus LM350,1745000000,2021,40.000,No fuel,No transmission,350,KemayoranHari
+Toyota Rush,199000000,2020,55.000,No fuel,No transmission,2020,PenjaringanHari
+Suzuki Carry,8600000,2022,40.000,Bensin,No transmission,2022,Daan
+Honda HR-V,325000000,2022,20.000,No fuel,AT,2022,TamboraHari
+Mercedes-Benz E300,688000000,2017,35.000,No fuel,No transmission,300,CengkarengHari
+Mercedes-Benz GLA200,399000000,2017,60.000,No fuel,AT,200,Pantai
+Daihatsu Xenia,106000000,2018,55.000,Bensin,MT,1.3,Kebon
+Toyota Agya,118000000,2019,30.000,Bensin,MT,1.2,MatramanHari
+Daihatsu Terios,188000000,2019,30.000,Bensin,MT,1.5,Pasar
+Kia Picanto,99000000,2013,105.000,Bensin,AT,1.2,Tanjung
+Mitsubishi Xpander,269000000,2023,25.000,Bensin,AT,1.5,PademanganHari
+BMW X1,445000000,2018,20.000,Bensin,AT,2018,Kebon
+Daihatsu Ayla,59000000,2016,85.000,No fuel,MT,2016,Setia
+Nissan Serena,219000000,2018,50.000,No fuel,No transmission,40,Pademangan5
+Mitsubishi Delica,175000000,2015,65.000,No fuel,No transmission,2.0,Cilandak24
+Jeep Jeep,965000000,2013,35.000,No fuel,AT,3.6,PademanganHari
+Mercedes-Benz S500L,299000000,2009,40.000,No fuel,No transmission,500,Pasar
+Toyota Kijang Innova,99000000,2006,190.000,Bensin,No transmission,2006,PademanganHari
+Honda CR-V,210000000,2015,140.000,Bensin,No transmission,2015,CibuburHari
+Isuzu Elf Minibus,570000000,2024,5.000,No fuel,No transmission,No engine size,CilangkapHari
+Toyota Alphard,285000000,2012,120.000,Bensin,No transmission,2012,Pulo
+Honda CR-V,210000000,2015,140.000,Bensin,No transmission,2015,CibuburHari
+Hyundai Palisade,725000000,2021,65.000,No fuel,No transmission,2021,Kebon
+Mazda CX-3,240000000,2018,65.000,No fuel,AT,10,Kebon
+Daihatsu Terios,145000000,2015,105.000,No fuel,AT,15,CipayungHari
+Hyundai H-1,415000000,2019,75.000,Diesel,AT,88,TebetHari
+Suzuki Ignis,128000000,2021,20.000,Bensin,MT,1.2,KojaHari
+Honda Mobilio,134000000,2014,135.000,Bensin,AT,1.5,CibuburHari
+Suzuki S-Presso,150000000,2023,10.000,Bensin,AT,1.0,MatramanHari
+Nissan Serena,209000000,2016,95.000,Bensin,AT,2.0,PademanganHari
+Toyota Avanza,137000000,2016,90.000,Bensin,AT,1.3,PademanganHari
+BMW X1,400000000,2019,70.000,Bensin,No transmission,1,Matraman5
+Nissan Livina,160000000,2019,80.000,No fuel,No transmission,2019,Cipayung29
+Toyota Avanza,153000000,2019,55.000,No fuel,MT,2019,Kebayoran
+Toyota Kijang Innova,565000000,2023,10.000,No fuel,AT,65,Cilandak13
+Toyota Kijang Innova,240000000,2017,75.000,Bensin,No transmission,2.0,KemayoranHari
+Mercedes-Benz GLA200,399000000,2017,60.000,No fuel,AT,200,Kelapa
+Nissan March,199000000,2015,120.000,No fuel,AT,1.2,Kebayoran
+Toyota Avanza,118000000,2017,95.000,No fuel,No transmission,0,Pulo
+Mercedes-Benz GLA200,399000000,2017,60.000,No fuel,AT,200,CilandakHari
+Toyota Kijang Innova,300000000,2022,25.000,No fuel,AT,2.0,Jakarta
+Kia Seltos,198000000,2020,60.000,No fuel,No transmission,1.4,KembanganHari
+Nissan Grand livina,110000000,2016,60.000,No fuel,No transmission,1.5,GambirHari
+Toyota Kijang Innova,365000000,2021,30.000,No fuel,No transmission,2.0,Kebayoran
+Nissan Livina,210000000,2022,25.000,No fuel,AT,24,Duren
+Toyota Avanza,235000000,2023,25.000,No fuel,AT,1.5,PademanganHari
+Suzuki Ignis,128000000,2021,20.000,Bensin,MT,1.2,Duren
+Suzuki Ignis,154000000,2020,35.000,Bensin,AT,1.2,MatramanHari
+Suzuki SX4,171000000,2018,100.000,Bensin,AT,4,CibuburHari
+Mazda 2,184000000,2018,60.000,Bensin,AT,2,CibuburHari
+Suzuki Baleno,142000000,2019,30.000,Bensin,MT,1.4,MatramanHari
+Honda BR-V,187000000,2019,65.000,No fuel,No transmission,1.5,Pademangan08
+Toyota Fortuner,295000000,2015,105.000,No fuel,No transmission,2.5,Cempaka
+Nissan March,99000000,2014,145.000,No fuel,Automatic,1.2,Kelapa
+Wuling Binguo EV,409000000,2024,5.000,No fuel,No transmission,No engine size,Duren
+Toyota Kijang Innova,235000000,2017,70.000,No fuel,AT,2017,MentengHari
+Mercedes-Benz E400,580000000,2014,85.000,No fuel,No transmission,400,Kelapa
+Chevrolet Spark,115000000,2017,75.000,No fuel,No transmission,2017,Pasar
+Mercedes-Benz GLA200,399000000,2017,60.000,No fuel,AT,200,SenenHari
+Mitsubishi Pajero,190000000,2012,130.000,No fuel,No transmission,No engine size,Pulo
+Honda HR-V,245000000,2017,45.000,No fuel,No transmission,2017,Pantai
+Nissan Livina,210000000,2022,25.000,No fuel,AT,24,KemayoranHari
+Toyota Land Cruiser,2450000000,2023,10.000,No fuel,No transmission,2023,CilandakHari
+Honda Jazz,69500000,2005,300.000,Bensin,No transmission,2005,KembanganHari
+Mitsubishi Xpander,187500000,2018,85.000,No fuel,AT,1.5,Pasar
+Suzuki XL7,220000000,2022,30.000,No fuel,No transmission,7,CilangkapHari
+Suzuki Ignis,128000000,2021,20.000,Bensin,MT,1.2,Mampang
+Toyota Vios,107000000,2013,125.000,Bensin,MT,1.5,PademanganHari
+Nissan Grand livina,102000000,2015,115.000,Bensin,AT,1.5,Kramat
+Mitsubishi Xpander,263000000,2021,45.000,Bensin,AT,1.5,KalideresHari
+Kia Picanto,89000000,2013,105.000,Bensin,AT,1.2,PesanggrahanHari
+Nissan Grand livina,97000000,2013,70.000,No fuel,AT,No engine size,Kembangan15
+Chevrolet Spin,85000000,2014,70.000,No fuel,AT,2014,Cilandak28
+Lexus RX300,950000000,2020,25.000,No fuel,No transmission,20,Pademangan21
+Land Rover Range Rover Velar,2000000000,2018,15.000,No fuel,No transmission,3.0,Cilandak5
+BMW 320i,637000000,2022,15.000,No fuel,No transmission,38,Mampang
+Honda Jazz,69500000,2005,300.000,Bensin,No transmission,2005,KembanganHari
+Honda Jazz,115000000,2011,85.000,No fuel,MT,2011,KembanganHari
+Mitsubishi Pajero Sport,442000000,2021,50.000,Diesel,No transmission,2021,CengkarengHari
+Toyota Agya,132000000,2022,40.000,Bensin,No transmission,2022,KojaHari
+Mitsubishi Pajero Sport,459000000,2019,115.000,No fuel,No transmission,4,KembanganHari
+Mitsubishi Pajero Sport,530000000,2023,5.000,No fuel,No transmission,4,MentengHari
+Toyota Alphard,1075000000,2022,30.000,No fuel,No transmission,2022,Kebayoran
+Nissan Livina,210000000,2021,40.000,Bensin,No transmission,2021,Mampang
+Toyota Voxy,438000000,2022,45.000,No fuel,AT,20,CilandakHari
+Honda Mobilio,135000000,2016,70.000,Bensin,No transmission,2016,KalideresHari
+Toyota Kijang Innova,170000000,2015,85.000,Bensin,AT,2.0,CilincingHari
+Nissan Grand livina,99000000,2013,100.000,Bensin,No transmission,1.5,CibuburHari
+Daihatsu Ayla,75000000,2015,45.000,Bensin,MT,1.0,Kebayoran
+Honda Brio,105000000,2013,110.000,Bensin,AT,1.2,CibuburHari
+Mazda 2,163000000,2015,65.000,Bensin,AT,2,JagakarsaHari
+Toyota Fortuner,510000000,2022,10.000,Diesel,No transmission,2022,Kembangan5
+Honda HR-V,261000000,2020,55.000,Bensin,AT,1.5,Cibubur6
+Mazda CX-5,393000000,2021,25.000,No fuel,No transmission,5,CilandakKemarin
+Lexus ES300,729000000,2019,30.000,No fuel,AT,300,Pantai
+Toyota Agya,132000000,2022,40.000,Bensin,No transmission,2022,KojaHari
+Honda Jazz,256000000,2019,70.000,Bensin,AT,2019,KemangHari
+Nissan Serena,79500000,2009,135.000,No fuel,No transmission,2009,CilandakHari
+Daihatsu Xenia,117000000,2014,120.000,No fuel,MT,1.3,CakungHari
+Wuling Almaz RS,232000000,2022,20.000,Bensin,No transmission,2022,PademanganHari
+Honda Mobilio,135000000,2016,70.000,Bensin,No transmission,2016,KalideresHari
+Mazda 2,120000000,2013,90.000,No fuel,No transmission,2,CilandakHari
+Toyota Kijang,40000000,1995,120.000,Bensin,No transmission,1995,Bambu
+Isuzu Traga,239000000,2024,5.000,No fuel,No transmission,No engine size,CengkarengHari
+Toyota Kijang,40000000,1995,120.000,Bensin,No transmission,1995,Bambu
+Wuling Almaz RS,232000000,2022,20.000,Bensin,No transmission,2022,PademanganHari
+Toyota Kijang Innova,170000000,2015,85.000,Bensin,AT,2.0,Mampang
+Mitsubishi Xpander,210000000,2019,75.000,Bensin,AT,1.5,CilincingHari
+Toyota Rush,226000000,2021,40.000,Bensin,AT,1.5,PademanganHari
+Toyota Agya,125000000,2019,75.000,Bensin,AT,1.2,Duren
+Suzuki Ertiga,136000000,2018,65.000,Bensin,MT,1.4,Pasar
+Mercedes-Benz CLA200,559000000,2018,25.000,No fuel,No transmission,200,Kebayoran
+Mitsubishi Xpander,180000000,2018,95.000,No fuel,No transmission,5,Cilandak23
+Honda HR-V,250000000,2021,25.000,No fuel,No transmission,30,Pademangan2
+Mitsubishi Outlander,183000000,2016,90.000,No fuel,AT,2.0,Kebayoran
+Toyota Alphard,1810000000,2024,5.000,No fuel,No transmission,2.5,Kebayoran
+BMW 330i,879000000,2022,15.000,No fuel,No transmission,330,Jakarta
+Nissan Livina,147000000,2018,120.000,Bensin,No transmission,2018,Duren
+Toyota Fortuner,260000000,2013,55.000,No fuel,No transmission,2013,KembanganHari
+Honda CR-V,370000000,2018,40.000,No fuel,AT,1.5,Tanjung
+Nissan Terrano,75000000,1997,15.000,No fuel,No transmission,No engine size,Duren
+Mercedes-Benz GLA200,399000000,2017,55.000,No fuel,AT,200,MentengHari
+Honda Mobilio,145000000,2018,45.000,No fuel,AT,2018,Kelapa
+Honda BR-V,159000000,2017,80.000,No fuel,AT,2017,KembanganHari
+Toyota Voxy,339000000,2019,80.000,No fuel,No transmission,2019,Kebayoran
+Lexus LM350h,2300000000,2024,5.000,No fuel,No transmission,350,MentengHari
+Suzuki Baleno,165000000,2018,125.000,Bensin,AT,1.4,KembanganHari
+Daihatsu Xenia,108000000,2014,50.000,Bensin,MT,1.3,PademanganHari
+Toyota Yaris,225000000,2020,45.000,Bensin,AT,1.5,CibuburHari
+Toyota Avanza,180000000,2021,60.000,Bensin,AT,1.3,CibuburHari
+Nissan Juke,110000000,2011,115.000,Bensin,AT,1.5,PademanganHari
+Audi A4,89000000,2006,110.000,No fuel,Automatic,4,Pasar
+Mitsubishi Xpander,188000000,2019,50.000,No fuel,AT,1.5,Pantai
+Honda Mobilio,145500000,2018,155.000,No fuel,AT,2018,Jatinegara22
+Mercedes-Benz E300,125000000,1988,120.000,Bensin,No transmission,300,Pasar
+Honda Mobilio,145000000,2018,45.000,No fuel,AT,2018,Mampang
+Toyota Fortuner,310000000,2013,100.000,Diesel,No transmission,2013,Kelapa
+Honda Mobilio,141000000,2016,110.000,No fuel,AT,1.5,Duren
+Honda Accord,929000000,2024,5.000,No fuel,No transmission,2.0,Jakarta
+Honda Mobilio,145000000,2018,45.000,No fuel,AT,2018,Kebayoran
+Honda Mobilio,145000000,2018,45.000,No fuel,AT,2018,KembanganHari
+Mini 3 Door,659000000,2019,20.000,No fuel,Automatic,2.0,Mampang
+Honda CR-V,529000000,2022,20.000,No fuel,No transmission,1.5,Kelapa
+Toyota Kijang Innova,317000000,2020,70.000,Diesel,AT,2.4,CakungHari
+Honda Brio,135000000,2020,10.000,No fuel,No transmission,9,MakasarHari
+Lexus LM350,1545000000,2021,20.000,No fuel,No transmission,350,Kelapa
+Honda Jazz,168000000,2015,65.000,Bensin,AT,1.5,PesanggrahanHari
+Toyota Agya,96000000,2016,95.000,Bensin,MT,1.0,JagakarsaHari
+Toyota Yaris,202000000,2020,35.000,Bensin,AT,1.5,CibuburHari
+Toyota Raize,200000000,2022,40.000,Bensin,AT,1.0,CibuburHari
+Toyota Sienta,185000000,2019,95.000,Bensin,AT,1.5,CibuburHari
+Honda CR-V,325000000,2020,60.000,No fuel,No transmission,1.5,Tanjung
+Toyota Kijang Innova,295000000,2018,80.000,No fuel,AT,2.0,Grogol
+Mercedes-Benz E250,278000000,2013,70.000,No fuel,No transmission,250,Cilandak2
+Honda City,205000000,2019,30.000,No fuel,No transmission,27,Duren
+Honda Mobilio,127000000,2015,130.000,No fuel,No transmission,2015,GambirHari
+Honda Brio,157000000,2019,45.000,No fuel,AT,1.2,Duren
+Honda HR-V,180000000,2016,95.000,Bensin,AT,1.5,Grogol
+Mitsubishi Xpander,238000000,2020,35.000,No fuel,AT,1.5,CibuburHari
+Mitsubishi Outlander Sport,173000000,2015,85.000,No fuel,AT,2.0,CibuburHari
+Daihatsu Xenia,138000000,2017,105.000,Bensin,AT,1.3,PenjaringanHari
+Honda BR-V,174000000,2015,110.000,Bensin,AT,1.5,JagakarsaHari
+Audi A4,199000000,2013,85.000,No fuel,Automatic,4,KalideresHari
+Mercedes-Benz GLE250D,490000000,2016,65.000,No fuel,No transmission,250,Cilandak22
+Toyota Camry,129000000,2007,180.000,Bensin,AT,3.5,Kebayoran
+Isuzu Panther,255000000,2019,15.000,Diesel,MT,13.000,Kebon
+Lexus RX,1099000000,2021,30.000,No fuel,Automatic,300,KemangHari
+Honda BR-V,200000000,2020,65.000,No fuel,AT,2020,Jakarta
+Mercedes-Benz GLA200,380000000,2015,40.000,Bensin,No transmission,200,Mampang
+Mitsubishi Xpander,193000000,2019,60.000,No fuel,No transmission,2019,KemayoranHari
+Toyota Alphard,840000000,2017,5.000,No fuel,AT,2.5,PademanganHari
+BMW X1,420000000,2018,65.000,No fuel,No transmission,1,PademanganHari
+Hyundai Kona,345000000,2021,35.000,No fuel,No transmission,2.0,CilandakHari
+Mazda CX-30,430000000,2023,5.000,No fuel,No transmission,2023,Kelapa
+BMW 520i,650000000,2020,5.000,No fuel,No transmission,520,Pantai
+Lexus LM350,1500000000,2020,25.000,No fuel,No transmission,350,CilandakHari
+Suzuki XL7,220000000,2021,30.000,No fuel,No transmission,7,CibuburHari
+Honda Mobilio,129000000,2018,45.000,Bensin,MT,1.5,JagakarsaHari
+Honda Brio Satya,119000000,2017,85.000,Bensin,MT,1.2,CiracasHari
+Suzuki Ertiga,149000000,2018,90.000,Bensin,AT,1.4,CibuburHari
+Chevrolet Trax,135000000,2017,155.000,Bensin,AT,1.4,CibuburHari
+Toyota Calya,116000000,2020,15.000,Bensin,AT,1.2,CibuburHari
+BMW 535i,349000000,2010,90.000,No fuel,Automatic,535,Palmerah5
+Honda City,230000000,2018,40.000,No fuel,No transmission,1.5,Duren
+Mitsubishi Xpander,193000000,2018,45.000,No fuel,AT,1.5,Kebayoran
+Suzuki Ignis,126000000,2020,45.000,No fuel,AT,1.2,Jatinegara6
+Toyota Harrier,360000000,2015,50.000,No fuel,AT,2.0,CilandakHari
+Toyota Sienta,165000000,2017,50.000,Bensin,No transmission,2017,PademanganHari
+Wuling Air EV,188000000,2023,10.000,No fuel,No transmission,2023,KembanganHari
+Toyota Alphard,359999999,2012,65.000,No fuel,No transmission,6,Tanjung
+Honda Mobilio,160000000,2019,40.000,No fuel,AT,2019,Kebon
+Audi A4,165000000,2008,120.000,Bensin,No transmission,4,CibuburHari
+Audi A6,319000000,2014,15.000,No fuel,No transmission,6,Jakarta
+Honda Civic Hatchback,295000000,2016,80.000,No fuel,No transmission,2016,Daan
+Mercedes-Benz C200,949000000,2023,5.000,No fuel,Automatic,200,Kelapa
+Hyundai Grandeur,99500000,2010,155.000,No fuel,No transmission,No engine size,PalmerahHari
+Honda Civic,375000000,2020,30.000,No fuel,AT,1.5,Bambu
+Honda Mobilio,129000000,2018,45.000,Bensin,MT,1.5,Grogol
+Daihatsu Terios,196000000,2019,50.000,Bensin,AT,1.5,CibuburHari
+Daihatsu Sigra,119000000,2019,100.000,Bensin,AT,1.2,CibuburHari
+Toyota Kijang Innova,329000000,2021,50.000,Bensin,AT,2.0,CiracasHari
+Daihatsu Sirion,121000000,2016,45.000,Bensin,AT,1.3,CibuburHari
+Mazda CX-5,185000000,2012,70.000,No fuel,No transmission,5,Kelapa
+BMW 535i,349000000,2010,90.000,No fuel,Automatic,535,Matraman6
+Mazda RX-7,3250000000,1997,15.000,No fuel,No transmission,1997,Cilandak13
+Chevrolet Trax,174000000,2019,30.000,No fuel,AT,2019,Sawah
+Toyota Avanza,155000000,2016,120.000,Bensin,No transmission,2016,Duren
+Honda Civic,290000000,2017,60.000,No fuel,AT,2017,Jakarta
+Hyundai Ioniq 5,655000000,2022,15.000,No fuel,No transmission,5,CilandakHari
+Toyota Alphard,285000000,2012,75.000,No fuel,No transmission,70,CibuburHari
+Toyota Avanza,172000000,2021,35.000,No fuel,Manual,1.5,SenenHari
+Toyota Avanza,140000000,2014,100.000,No fuel,AT,2014,Tanjung
+BMW 520i,485000000,2019,20.000,No fuel,No transmission,520,Mampang
+Toyota Sienta,163000000,2018,110.000,No fuel,No transmission,2,Cempaka
+Toyota Avanza,165000000,2020,70.000,No fuel,No transmission,1.3,Setia
+Honda Freed,155000000,2013,70.000,No fuel,AT,1.5,Pantai
+Toyota Alphard,238000000,2011,135.000,No fuel,No transmission,2.4,Kebayoran
+Toyota Agya,92000000,2017,65.000,Bensin,MT,1.2,CibuburHari
+Honda Civic,340000000,2016,70.000,Bensin,AT,1.5,CibuburHari
+Toyota Agya,121000000,2018,70.000,Bensin,AT,1.2,JagakarsaHari
+Suzuki Ignis,122000000,2018,55.000,Bensin,AT,1.2,CiracasHari
+BMW M4,2425000000,2023,5.000,No fuel,No transmission,4,Cilandak13
+Daihatsu Sirion,123000000,2016,60.000,No fuel,No transmission,2016,Cengkareng17
+Mercedes-Benz S450L,868000000,2018,75.000,No fuel,No transmission,450,Kembangan19
+BMW 528i,77000000,1998,145.000,No fuel,No transmission,528,Kebayoran
+Lexus LM350,1750000000,2021,15.000,No fuel,No transmission,350,CilandakHari
+Mazda 3,357000000,2020,50.000,No fuel,No transmission,33,CilandakHari
+Honda Mobilio,160000000,2019,40.000,No fuel,AT,2019,JagakarsaHari
+Mini Cooper Mini Cooper,820000000,2023,5.000,No fuel,No transmission,2023,KembanganHari
+Honda HR-V,375000000,2022,40.000,No fuel,AT,1.5,PesanggrahanHari
+Honda CR-V,540000000,2022,30.000,Bensin,No transmission,1.5,PademanganHari
+Toyota Agya,125000000,2020,45.000,No fuel,AT,0,CilandakHari
+Honda CR-V,218000000,2016,40.000,No fuel,No transmission,2.0,MentengHari
+Mitsubishi Xpander,205000000,2019,75.000,No fuel,AT,2019,Jakarta
+Mercedes-Benz G63,6950000000,2024,5.000,No fuel,No transmission,2024,Kelapa
+Suzuki Ertiga,147000000,2018,80.000,No fuel,AT,1.4,Setia
+Honda Brio,165000000,2019,45.000,Bensin,AT,1.2,CibuburHari
+Nissan Grand livina,95000000,2015,95.000,Bensin,MT,1.5,CibuburHari
+Toyota Rush,213000000,2022,55.000,Bensin,MT,1.5,CibuburHari
+Kia Picanto,89000000,2014,95.000,Bensin,AT,1.2,CibuburHari
+Mercedes-Benz G-Class,5950000000,2024,5.000,No fuel,No transmission,500,Penjaringan29
+Toyota Fortuner,262000000,2013,95.000,Diesel,No transmission,No engine size,Duren
+Toyota Kijang Innova,265000000,2018,120.000,No fuel,No transmission,2018,Grogol
+Honda HR-V,235000000,2019,75.000,No fuel,AT,6,Jatinegara21
+Daihatsu HIJET,10000000,1991,200.000,Bensin,No transmission,1991,TebetHari
+Subaru Impreza,175000000,2012,70.000,No fuel,No transmission,2.0,PalmerahHari
+Toyota Kijang Innova,99000000,2008,140.000,No fuel,No transmission,2008,PalmerahHari
+Honda HR-V,375000000,2022,40.000,No fuel,AT,1.5,CilandakHari
+Audi A8 L,560000000,2013,45.000,No fuel,No transmission,8,Tanjung
+Honda HR-V,375000000,2022,40.000,No fuel,AT,1.5,PalmerahHari
+Toyota Avanza,167000000,2021,45.000,No fuel,Manual,1.5,SenenHari
+Datsun Cross,96000000,2018,75.000,No fuel,AT,2018,Pasar
+Honda HR-V,375000000,2022,40.000,No fuel,AT,1.5,CibuburHari
+Toyota Harrier,320000000,2014,85.000,No fuel,AT,2.0,Tanah
+Nissan Serena,145000000,2013,30.000,No fuel,AT,2.0,KembanganHari
